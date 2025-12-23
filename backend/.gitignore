@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+target/
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Application properties (contains sensitive data)
+src/main/resources/application.properties
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
